@@ -1,0 +1,24 @@
+{
+  "name": "wmspanel-client",
+  "version": "0.1.0",
+  "description": "Node.JS client for WMSPanel API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test has been created yet.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmg-git/WMSPanel-client.git"
+  },
+  "keywords": [
+    "wmpanel",
+    "api",
+    "nodejs"
+  ],
+  "author": { "name": "Alexandre-Jacques St-Jacques", "email": "alexandre@floatplanemedia.com" },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmg-git/WMSPanel-client/issues"
+  },
+  "homepage": "https://github.com/lmg-git/WMSPanel-client#readme"
+}
